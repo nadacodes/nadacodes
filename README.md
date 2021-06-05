@@ -1,11 +1,9 @@
-### Hi there 👋
+### Hi there... 👋
 
 My name is Nada. I am a computer science student at the University of Pretoria.
 <br>
 - 🔭 I’m currently working on a Project called Bean Bag
 - 🌱 I’m currently learning the C# and the ASP.NET Core 5.0 framework 
-- 👯 I’m looking to collaborate on github
-- 📫 How to reach me: insta: @pinnaconada 
 - 😄 Pronouns: She/Her :)
 - ⚡ Fun fact: Currently, i'm learning Darija, a native language to the country of Morocco. I love sci-fi movies 👽, alternative rock music 🎵 and problem solving 🧑‍🔬! I'm also a crypto enthusiast 💰! To the moon 🌚✨!
 
