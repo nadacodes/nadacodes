@@ -4,7 +4,7 @@ My name is Nada. I am a computer science student at the University of Pretoria.
 <br>
 - 🔭 Currently working on developing a specific web scraper
 - 🌱 I’m currently learning ReactJS and Redux ⚛
-- 😄 Pronouns: She/Her :)
+- 👧🏽 Pronouns: She/Her :)
 
 <table width="100%"> 
   <tr>
