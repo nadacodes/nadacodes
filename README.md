@@ -2,8 +2,8 @@
 
 My name is Nada. I am a computer science student at the University of Pretoria.
 <br>
-- 🔭 I’m currently working on a Project called Bean Bag
-- 🌱 I’m currently learning C# and the ASP.NET Core 5.0 framework 
+- 🔭 Currently working on developing a specific web scraper
+- 🌱 I’m currently learning ReactJS and Redux 
 - 😄 Pronouns: She/Her :)
 
 <table width="100%"> 
