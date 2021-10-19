@@ -25,3 +25,7 @@ My name is Nada. I am a BsC Computer Science student and a teaching assistant fo
 
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
 [//]: <> (Old Visits: https://badges.pufler.dev/visits/nadachra/nadachra?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
+
+### Tech I have worked with
+
+### Tech I'm currently learning 
