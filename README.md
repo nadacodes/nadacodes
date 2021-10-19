@@ -4,6 +4,7 @@ My name is Nada. I am a BsC Computer Science student and a teaching assistant fo
 <br>
 - 🔭 I'm working on developing a cool web scraper 
 - 🌱 I’m currently learning ReactJS and Redux ⚛
+- 📈 Goals: To become a fullstack developer
 - 👧🏽 Pronouns: She/Her 
 
 <table width="100%"> 
