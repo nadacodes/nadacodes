@@ -1,4 +1,4 @@
-### Hello... 👋
+### Hello... 👋👧🏽
 
 My name is Nada. I am a BsC Computer Science student and a teaching assistant for a CS module (Computer Security) at the University of Pretoria.
 <br>
