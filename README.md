@@ -27,7 +27,7 @@ My name is Nada. I am a BsC Computer Science student and a teaching assistant fo
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
 [//]: <> (Old Visits: https://badges.pufler.dev/visits/nadachra/nadachra?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
 
-### Tech I have worked with
+### I have worked with
 
 ![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
 ![image]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E})
@@ -64,6 +64,7 @@ My name is Nada. I am a BsC Computer Science student and a teaching assistant fo
 ![image]({https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white})
 ![image]({https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white})
 ![image]({https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white})
+
 ![image]({https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white})
 
 ### Currently learning 
