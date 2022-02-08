@@ -2,9 +2,7 @@
 
 My name is Nada. I am a BsC Computer Science student and teaching assistant at the University of Pretoria.
 <br>
-- 🔭 I'm currently developing a specialised e-commerce application
-- 🌱 I’m currently learning ReactJS and Redux ⚛
-- 📈 Goals: To become a fullstack developer
+
 - 👧🏽 Pronouns: She/Her 
 
 <table width="100%"> 
