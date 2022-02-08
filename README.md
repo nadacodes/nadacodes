@@ -3,7 +3,7 @@
 My name is Nada. I am a BsC Computer Science student and teaching assistant at the University of Pretoria.
 <br>
 
-- 👧🏽 Pronouns: She/Her 
+👧🏽 Pronouns: She/Her 
 
 <table width="100%"> 
   <tr>
