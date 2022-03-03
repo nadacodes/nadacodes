@@ -1,9 +1,15 @@
-### Hello... 👋👧🏽
+### Hello... 👋
 
-My name is Nada. I am a BsC Computer Science student and teaching assistant at the University of Pretoria.
+My name is <b>Nada</b>. <br>
+I am a: <br>
+> BsC Computer Science Graduate from the University of Pretoria,<br>
+> Computer Science Tutor,<br>
+> Software Engineer. 
+ 
 <br>
 
-👧🏽 Pronouns: She/Her 
+👧🏽 Pronouns: She/Her <br>
+⚛️ Currently: Learning React <br>
 
 <table width="100%"> 
   <tr>
