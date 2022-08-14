@@ -2,14 +2,13 @@
 
 My name is <b>Nada</b>. <br>
 I am a: <br>
-> BsC Computer Science Graduate from the University of Pretoria,<br>
-> Computer Science Tutor,<br>
+> BsC Computer Science Graduate from the University of Pretoria and a<br>
 > Software Engineer. 
+> Interests: The blockchain and web3.
  
 <br>
 
 👧🏽 Pronouns: She/Her <br>
-⚛️ Currently: Learning React <br>
 
 <table width="100%"> 
   <tr>
