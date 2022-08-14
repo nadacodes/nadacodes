@@ -2,7 +2,7 @@
 
 My name is <b>Nada</b>. <br>
 I am a: <br>
-> BsC Computer Science Graduate from the University of Pretoria and a Software Engineer. 
+> BsC Computer Science Graduate from the University of Pretoria and a Software Engineer. <br>
 > Interests: The blockchain and web3.
  
 <br>
