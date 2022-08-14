@@ -3,8 +3,7 @@
 My name is <b>Nada</b>. <br>
 I am a: <br>
 > BsC Computer Science Graduate from the University of Pretoria and a Software Engineer. <br>
-> Interests:
-> * The blockchain and web3. Currently taking part in #30DaysOfWeb3. <br>
+> Interests: The blockchain and web3. Currently taking part in #30DaysOfWeb3 🌌 <br>
 > Learn blockchain development on Celo and earn while you at it <a href="https://dacade.org/signup?invite=nada"> here</a> !
  
 <br>
