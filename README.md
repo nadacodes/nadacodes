@@ -2,7 +2,7 @@
 ### Hello... 👋
 
 My name is <b>Nada</b>.
-She/Her <br>
+She/Her. <br>
 BsC Computer Science Graduate from the University of Pretoria and a Software Engineer<br>
 <br>
 <table width="100%"> 
