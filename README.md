@@ -1,10 +1,7 @@
-### Hello... 👋
+## Hello... 👋 My name is <b>Nada</b> <br>
 
-My name is <b>Nada</b>. <br>
-👧🏽 Pronouns:<br>
-She/Her <br>
-I am a: <br>
-BsC Computer Science Graduate from the University of Pretoria and a Software Engineer. Currently learning React.<br>
+BsC Computer Science Graduate from the University of Pretoria, now working as a fullstack .NET Engineer. <br>
+Currently learning React.<br>
 <table width="100%"> 
   <tr>
   <td width="50%">
