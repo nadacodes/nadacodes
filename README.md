@@ -1,4 +1,5 @@
-## Hello... 👋 My name is <b>Nada</b> <br>
+# Hello... 👋 My name is <b>Nada</b> <br>
+## Software Engineer from South Africa 🇿🇦
 
 BsC Computer Science Graduate from the University of Pretoria, now working as a fullstack .NET Engineer. <br>
 Currently learning React.<br>
