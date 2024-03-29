@@ -4,7 +4,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=nadachra&logo=GitHub&label=github%20visits&color=blueviolet&logoColor=white&style=flat-square)](https://github.com/nadachra)
 
 
-BsC Computer Science Graduate from the University of Pretoria, now working as a fullstack .NET Engineer. <br>
+BSc Computer Science Graduate from the University of Pretoria, now working as a fullstack .NET Engineer. <br>
 Currently learning React.<br>
 
 ## Tech Stack
