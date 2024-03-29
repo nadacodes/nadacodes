@@ -4,8 +4,11 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=nadachra&logo=GitHub&label=github%20visits&color=blueviolet&logoColor=white&style=flat-square)](https://github.com/nadachra)
 
 
-BSc Computer Science Graduate from the University of Pretoria, now working as a fullstack .NET Engineer. <br>
-Currently learning React.<br>
+👩🏻‍🎓 BSc Computer Science Graduate, University of Pretoria <br>
+👩🏻‍💻 Working as a remote Fullstack .NET Engineer <br>
+⚛️  Currently learning React.js <br>
+👾 Blockchain and Web 3 enthusiast <br>
+🛠 Current Personal Project: 30 Days of Web 3 
 
 ## Tech Stack
   <a href="https://skillicons.dev">
