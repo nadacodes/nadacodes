@@ -11,7 +11,6 @@
 👩🏻‍🎓 BSc Computer Science Graduate, University of Pretoria <br>
 👩🏻‍💻 Working as a remote Fullstack .NET Engineer <br>
 ⚛️  Currently learning React.js <br>
-👾 Blockchain and Web 3 enthusiast <br>
 
 ## Tech Stack
   <a href="https://skillicons.dev">
